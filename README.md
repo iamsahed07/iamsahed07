@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://your-profile-image-url" alt="Sahed Ali" width="200" height="200">
-</p>
 
 <h1 align="center">🚀 Sahed Ali</h1>
 
@@ -9,9 +6,9 @@
 </p>
 
 <p align="center">
-  <a href="https://sahedali.com">Website</a> •
-  <a href="https://twitter.com/sahedali">Twitter</a> •
-  <a href="https://linkedin.com/in/sahedali">LinkedIn</a>
+  <a href="https://sahedx.com">Website</a> •
+  <a href="https://twitter.com/iam_sahed07">Twitter</a> •
+  <a href="https://www.linkedin.com/in/iamsahed/">LinkedIn</a>
 </p>
 
 ---
@@ -51,7 +48,7 @@ Here are some of the projects I'm particularly proud of:
 
 ### 📊 GitHub Stats
 
-![Sahed Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sahedali&show_icons=true&count_private=true)
+![Sahed Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamsahed07&show_icons=true&count_private=true)
 
 ---
 
@@ -59,12 +56,13 @@ Here are some of the projects I'm particularly proud of:
 
 I'm always open to new opportunities and collaborations. Feel free to reach out:
 
-- Website: [https://sahedali.com](https://sahedali.com)
-- Twitter: [https://twitter.com/sahedali](https://twitter.com/sahedali)
-- LinkedIn: [https://linkedin.com/in/sahedali](https://linkedin.com/in/sahedali)
+- Website: [https://sahedali.com](https://sahedx.com)
+- Twitter: [https://twitter.com/sahedali](https://twitter.com/iam_sahed07)
+- LinkedIn: [https://linkedin.com/in/sahedali](https://linkedin.com/in/iamsahed)
 
 ---
-
+<p align='center'>
 ⭐️ Don't forget to star some of my repositories if you find them interesting!
 
 👨‍💻 Keep coding and stay awesome!
+</p>
