@@ -63,5 +63,6 @@ I'm always open to new opportunities and collaborations. Feel free to reach out:
 ---
 <p align='center'>
 ⭐️ Don't forget to star some of my repositories if you find them interesting!
+<br>
 👨‍💻 Keep coding and stay awesome!
 </p>
