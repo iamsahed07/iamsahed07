@@ -8,7 +8,8 @@
 <p align="center">
   <a href="https://sahedx.com">Website</a> •
   <a href="https://twitter.com/iam_sahed07">Twitter</a> •
-  <a href="https://www.linkedin.com/in/iamsahed/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/iamsahed/">LinkedIn</a> •
+  <a href="https://mega.nz/file/HM9HGBBJ#83d0h2PNx3U6LU0SyW_R2eWpaOaM-zrHb3dRLzOrh1U">CV</a>
 </p>
 
 ---
