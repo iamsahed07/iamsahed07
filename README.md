@@ -49,7 +49,7 @@ Here are some of the projects I'm particularly proud of:
 
 ### 📊 GitHub Stats
 
-![Sahed Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamsahed07&show_icons=true&count_private=true) ![GitHub streak stats](https://streak-stats.demolab.com/?user=iamsahed07)
+![Sahed Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamsahed07&show_icons=true&count_private=true) 
 
 ---
 
@@ -69,6 +69,7 @@ Here are some of the projects I'm particularly proud of:
 </p>
 
 ---
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![GitHub streak stats](https://streak-stats.demolab.com/?user=iamsahed07)
 <p align='center'>
 ⭐️ Don't forget to star some of my repositories if you find them interesting!
 <br>
