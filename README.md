@@ -58,7 +58,8 @@ I'm always open to new opportunities and collaborations. Feel free to reach out:
 
 - Website: [https://sahedali.com](https://sahedx.com)
 - Twitter: [https://twitter.com/sahedali](https://twitter.com/iam_sahed07)
-- LinkedIn: [https://linkedin.com/in/sahedali](https://linkedin.com/in/iamsahed)
+- LinkedIn:
+- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/iamsahed/)  
 
 ---
 <p align='center'>
