@@ -66,6 +66,16 @@ Check out some of my favorite projects:
 
 ---
 
+### 📫 My Contributions
+
+<p align="center">
+![snake gif](https://github.com/iamsahed07/iamsahed07/blob/output/github-snake-dark.svg)
+</p>
+
+---
+
+---
+
 ### 📫 Let's Connect
 
 <p align="center">
@@ -89,4 +99,4 @@ Check out some of my favorite projects:
   ⭐️ Don’t forget to star my repositories if you find them interesting!<br>
   👨‍💻 Keep coding and stay awesome!
 </p>
-![snake gif](https://github.com/iamsahed07/iamsahed07/blob/output/github-snake-dark.svg)
+
