@@ -69,7 +69,7 @@ Check out some of my favorite projects:
 ### 📫 My Contributions
 
 <p align="center">
-![snake gif](https://github.com/iamsahed07/iamsahed07/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/iamsahed07/iamsahed07/blob/output/github-snake.svg)
 </p>
 
 ---
