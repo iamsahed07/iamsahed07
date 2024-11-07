@@ -1,4 +1,4 @@
-[![MasterHead](https://res.cloudinary.com/dosdjk5jz/image/upload/v1730972185/2000_600px_e2wpso.gif)](https://sahedxtech.vercel.app)
+[![MasterHead](https://res.cloudinary.com/dosdjk5jz/image/upload/v1730973279/sahxd_1_cxayns.svg)](https://sahedxtech.vercel.app)
 
 <h1 align="center">🚀 Sahed Ali</h1>
 
