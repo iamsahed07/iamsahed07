@@ -1,32 +1,31 @@
-
 <h1 align="center">🚀 Sahed Ali</h1>
 
 <p align="center">
-  Software Engineer | Open Source Contributor | Coding Enthusiast
+  <strong>Software Engineer | Open Source Contributor | Coding Enthusiast</strong>
 </p>
 
 <p align="center">
-  <a href="https://sahedx.com">Website</a> •
-  <a href="https://twitter.com/iam_sahed07">Twitter</a> •
-  <a href="https://www.linkedin.com/in/iamsahed/">LinkedIn</a> •
-  <a href="https://mega.nz/file/HM9HGBBJ#83d0h2PNx3U6LU0SyW_R2eWpaOaM-zrHb3dRLzOrh1U">CV</a>
+  <a href="https://sahedx.vercel.app"><strong>🌐 Website</strong></a> •
+  <a href="https://twitter.com/iam_sahed07"><strong>🐦 Twitter</strong></a> •
+  <a href="https://www.linkedin.com/in/iamsahed/"><strong>💼 LinkedIn</strong></a> •
+  <a href="https://mega.nz/file/HM9HGBBJ#83d0h2PNx3U6LU0SyW_R2eWpaOaM-zrHb3dRLzOrh1U"><strong>📄 CV</strong></a>
 </p>
 
 ---
 
-### 👋 About Me &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Profile Views](https://komarev.com/ghpvc/?username=iamsahed07) [![GitHub followers](https://img.shields.io/github/followers/iamsahed07.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/iamsahed07?tab=followers)
+### 👋 About Me &nbsp;&nbsp;&nbsp; ![Profile Views](https://komarev.com/ghpvc/?username=iamsahed07) [![GitHub followers](https://img.shields.io/github/followers/iamsahed07.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/iamsahed07?tab=followers)
 
-Hey there! I'm Sahed Ali, a passionate software engineer who loves to turn ideas into code that has a real impact. My journey in the world of tech has been nothing short of exhilarating.
+Hi! I'm Sahed Ali, a passionate software engineer dedicated to turning ideas into impactful code. My journey in tech has been nothing short of exhilarating.
 
-- 🔭 I’m currently working on groundbreaking projects that push the boundaries of what's possible.
-- 🌱 I’m always learning and exploring new technologies.
-- 💬 Ask me about anything related to software development and open source.
+- 🔭 **Currently working** on projects that push the boundaries of innovation.
+- 🌱 **Always learning** and exploring new technologies.
+- 💬 **Ask me** about software development, open source, or tech in general.
 
 ---
 
 ### 🌟 Tech Stack
 
-I wield a powerful arsenal of technologies and tools:
+I work with a powerful set of technologies:
 
 - **Languages**: JavaScript, Python, Go
 - **Front-end**: React, Angular, Vue.js
@@ -39,41 +38,40 @@ I wield a powerful arsenal of technologies and tools:
 
 ### 🚀 Featured Projects
 
-Here are some of the projects I'm particularly proud of:
+Check out some of my favorite projects:
 
-1. [Project X](https://github.com/sahedali/project-x): A game-changing application that does XYZ.
-2. [Project Y](https://github.com/sahedali/project-y): An open source project with thousands of stars that helps developers do ABC.
-3. [Project Z](https://github.com/sahedali/project-z): A tool that simplifies the complexities of XYZ.
+1. **[Project X](https://github.com/sahedali/project-x)**: A game-changing application that does XYZ.
+2. **[Project Y](https://github.com/sahedali/project-y)**: Open-source project with thousands of stars that helps developers do ABC.
+3. **[Project Z](https://github.com/sahedali/project-z)**: A tool that simplifies the complexities of XYZ.
 
 ---
 
 ### 📊 GitHub Stats
 
-![Sahed Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamsahed07&show_icons=true&count_private=true) 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iamsahed07&show_icons=true&count_private=true" alt="Sahed Ali's GitHub Stats" />
+</p>
 
 ---
 
 ### 📫 Let's Connect
 
 <p align='center'>
-  I'm always open to new opportunities and collaborations. Feel free to reach out:
+  I'm open to new opportunities and collaborations. Feel free to reach out:
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](sahedx.com)
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- Add multiple non-breaking spaces for spacing -->
-  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/iam_sahed07)
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- Add multiple non-breaking spaces for spacing -->
-  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/iam.sahed/)
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- Add multiple non-breaking spaces for spacing -->
-  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/iamsahed/)
-  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='Website' height='40'>](https://sahedx.com)
+  &nbsp;&nbsp;&nbsp;&nbsp;[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='Twitter' height='40'>](https://twitter.com/iam_sahed07)
+  &nbsp;&nbsp;&nbsp;&nbsp;[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='Instagram' height='40'>](https://www.instagram.com/iam.sahed/)
+  &nbsp;&nbsp;&nbsp;&nbsp;[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='LinkedIn' height='40'>](https://www.linkedin.com/in/iamsahed/)
 </p>
 
 ---
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![GitHub streak stats](https://streak-stats.demolab.com/?user=iamsahed07)
-<p align='center'>
-⭐️ Don't forget to star some of my repositories if you find them interesting!
-<br>
-👨‍💻 Keep coding and stay awesome!
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=iamsahed07" alt="GitHub streak stats" />
 </p>
 
-
+<p align='center'>
+  ⭐️ Don’t forget to star my repositories if you find them interesting!<br>
+  👨‍💻 Keep coding and stay awesome!
+</p>
