@@ -9,7 +9,7 @@ on:
   schedule:
 
     - cron: "0 0 * * *"
-
+    
 
 
   # Allow manual triggering of the workflow
