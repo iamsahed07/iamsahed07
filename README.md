@@ -56,13 +56,15 @@ Check out some of my favorite projects:
 
 ### 📫 Let's Connect
 
-<p align='center'>
+<p align="center">
   I'm open to new opportunities and collaborations. Feel free to reach out:
+</p>
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='Website' height='40'>](https://sahedx.com)
-  &nbsp;&nbsp;&nbsp;&nbsp;[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='Twitter' height='40'>](https://twitter.com/iam_sahed07)
-  &nbsp;&nbsp;&nbsp;&nbsp;[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='Instagram' height='40'>](https://www.instagram.com/iam.sahed/)
-  &nbsp;&nbsp;&nbsp;&nbsp;[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='LinkedIn' height='40'>](https://www.linkedin.com/in/iamsahed/)
+<p align="center">
+  <a href="https://sahedx.com"><strong>🌐 Website</strong></a> &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://twitter.com/iam_sahed07"><strong>🐦 Twitter</strong></a> &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://www.instagram.com/iam.sahed/"><strong>📸 Instagram</strong></a> &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/iamsahed/"><strong>💼 LinkedIn</strong></a>
 </p>
 
 ---
