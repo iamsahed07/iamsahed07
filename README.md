@@ -13,9 +13,9 @@
 
 ---
 
-<div align="left">
+
 ### 👋 About Me &nbsp;&nbsp;&nbsp; 
-</div>  
+ 
 
 <div align="right">
 
