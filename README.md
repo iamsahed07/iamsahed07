@@ -64,7 +64,7 @@ Check out some of my favorite projects:
   <a href="https://sahedx.com"><strong>🌐 Website</strong></a> &nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="https://twitter.com/iam_sahed07"><strong>🐦 Twitter</strong></a> &nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="https://www.instagram.com/iam.sahed/"><strong>📸 Instagram</strong></a> &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/iamsahed/"><strong>💼 LinkedIn</strong></a>
+  <a href="https://www.linkedin.com/in/iamsahed/"><strong>💼 Linkedin</strong></a>
 </p>
 
 ---
