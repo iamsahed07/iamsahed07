@@ -13,7 +13,14 @@
 
 ---
 
-### 👋 About Me &nbsp;&nbsp;&nbsp; ![Profile Views](https://komarev.com/ghpvc/?username=iamsahed07) [![GitHub followers](https://img.shields.io/github/followers/iamsahed07.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/iamsahed07?tab=followers)
+<div align="right">
+
+### 👋 About Me &nbsp;&nbsp;&nbsp; 
+![Profile Views](https://komarev.com/ghpvc/?username=iamsahed07) 
+[![GitHub followers](https://img.shields.io/github/followers/iamsahed07.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/iamsahed07?tab=followers)
+
+</div>
+
 
 Hi! I'm Sahed Ali, a passionate software engineer dedicated to turning ideas into impactful code. My journey in tech has been nothing short of exhilarating.
 
