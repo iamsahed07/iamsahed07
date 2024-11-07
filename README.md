@@ -13,9 +13,12 @@
 
 ---
 
+<div align="left">
+### 👋 About Me &nbsp;&nbsp;&nbsp; 
+</div>  
+
 <div align="right">
 
-### 👋 About Me &nbsp;&nbsp;&nbsp; 
 ![Profile Views](https://komarev.com/ghpvc/?username=iamsahed07) 
 [![GitHub followers](https://img.shields.io/github/followers/iamsahed07.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/iamsahed07?tab=followers)
 
