@@ -69,8 +69,9 @@ Check out some of my favorite projects:
 ### 📫 My Contributions
 
 <div align="center">
-  ![snake gif](https://github.com/iamsahed07/iamsahed07/blob/output/ocean.gif)
+  <img src="https://github.com/iamsahed07/iamsahed07/blob/output/ocean.gif" alt="snake gif" />
 </div>
+
 
 ---
 
