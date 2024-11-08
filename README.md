@@ -68,9 +68,9 @@ Check out some of my favorite projects:
 
 ### 📫 My Contributions
 
-<p align="center">
+<div align="center">
 ![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake.svg)
-</p>
+</div>
 
 ---
 
