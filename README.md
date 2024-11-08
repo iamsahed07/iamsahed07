@@ -99,4 +99,4 @@ Check out some of my favorite projects:
   ⭐️ Don’t forget to star my repositories if you find them interesting!<br>
   👨‍💻 Keep coding and stay awesome!
 </p>
- ![snake gif](https://github.com/iamsahed07/iamsahed07/blob/output/ocean.gif)
+https://github.com/iamsahed07/iamsahed07/blob/9eb8ef1e5aad69c4ac33941633358afbe25861c9/ocean.gif
